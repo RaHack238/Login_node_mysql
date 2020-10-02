@@ -1,0 +1,9 @@
+npm init -y
+npm i express mysql dotenv hbs
+npm --save nodemon
+
+localhost:8080/phpmyadmin/      8080 is the port where my Apache server is listening at.. 
+
+host in db will be the ip address of server if we will run it on some external server.
+
+npm i bcryptjs cookie-parser jsonwebtoken
